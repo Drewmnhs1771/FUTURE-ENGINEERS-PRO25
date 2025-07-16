@@ -5,3 +5,19 @@
 # MAYABOT-ROBOMATION FRONT VIEW
 
 ![Image Alt](https://github.com/Drewmnhs1771/FUTURE-ENGINEERS-PRO25/blob/907176d99456b3fedecd4c1d313b2c9ca28ed1e8/images/frontview%20fe.jpg)
+
+# MAYABOT-ROBOMATION SIDEVIEW LEFT
+
+![Image Alt](https://github.com/Drewmnhs1771/FUTURE-ENGINEERS-PRO25/blob/907176d99456b3fedecd4c1d313b2c9ca28ed1e8/images/sideview%20L%20fe.jpg)
+
+# MAYABOT-ROBOMATION SIDEVIEW RIGHT
+
+![Image Alt](https://github.com/Drewmnhs1771/FUTURE-ENGINEERS-PRO25/blob/907176d99456b3fedecd4c1d313b2c9ca28ed1e8/images/sideview%20R%20fe.jpg)
+
+# MAYABOT-ROBOMATION REAR VIEW
+
+![Image Alt](https://github.com/Drewmnhs1771/FUTURE-ENGINEERS-PRO25/blob/907176d99456b3fedecd4c1d313b2c9ca28ed1e8/images/backview%20fe.jpg)
+
+# MAYABOT-ROBOMATION BOTTOM VIEW
+
+![Image Alt](https://github.com/Drewmnhs1771/FUTURE-ENGINEERS-PRO25/blob/907176d99456b3fedecd4c1d313b2c9ca28ed1e8/images/bottom%20fe.jpg)
