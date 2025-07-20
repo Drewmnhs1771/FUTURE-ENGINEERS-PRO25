@@ -1,7 +1,7 @@
 # MAYABOT-ROBOMATION ROBOT MODEL F.E.
 
 [LINK](https://github.com/Drewmnhs1771/FUTURE-ENGINEERS-PRO25/blob/57f58cf669c7b37cc9148c4422efebda336a0fbd/others/MAYABOT-ROBOMATION%20F.E.%20MODEL.pdf)
-For the link, here is the skeletal structure of our robot and some of the vital parts of it.
+For the link, here is the skeletal structure of our robot and some of the vital parts of it and the step by step on how we build the skeletal structure of our Robot.
 
 # MODIFICATION 1
 For modification #1, we changed the page 46-49 and use a Rudder angle (Red) in order to generate a speed that we wanted for the robot to perform.
