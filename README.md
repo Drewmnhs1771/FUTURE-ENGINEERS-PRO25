@@ -5,13 +5,13 @@ forward and the two black wheels that are responsible in turning.
 
 ![Image Alt](https://github.com/Drewmnhs1771/FUTURE-ENGINEERS-PRO25/blob/b1f794abaca6e562922c6f1d95cfd55768c6975d/images%20(FE)/TopView.jpg)
 
-# MAYABOT-ROBOMATION FROMT VIEW
+# MAYABOT-ROBOMATION FRONT VIEW
 In the front of our Robot, you'll immediately notice the top vision camera that act as an eye for the robot allowing it to detect some obstacles and perform a 
 specific function. In the below of the camera, you will notice a grayscale sensor positioned in the lower middle to detect a specific colors(orange and blue) and if
 it detects a specific color, it will either turn left or right. The robot has a two black rubber wheel for maintaining the balance of the robot connected to a (gray) rudder angle motor
 that was responsible when it comes on turning.
 
-![Image Alt](https://github.com/Drewmnhs1771/FUTURE-ENGINEERS-PRO25/blob/b1f794abaca6e562922c6f1d95cfd55768c6975d/images%20(FE)/TopView.jpg)
+![Image Alt](https://github.com/Drewmnhs1771/FUTURE-ENGINEERS-PRO25/blob/b1f794abaca6e562922c6f1d95cfd55768c6975d/images%20(FE)/FrontView.jpg)
 
 # MAYABOT-ROBOMATION REAR VIEW
 
